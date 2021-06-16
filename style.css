@@ -274,6 +274,8 @@ header img {
   display: flex;
   justify-content: center;
   background-image: url('assets/img/bitcoinbaby\ 1.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
 
 .main--image-section h2 {
